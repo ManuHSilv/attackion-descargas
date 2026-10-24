@@ -11,7 +11,8 @@ qué datos trata el juego. En resumen: **ninguno sale de tu teléfono**.
 
 - No pide cuenta, correo ni ningún dato tuyo.
 - No tiene anuncios, ni analíticas, ni servicios de seguimiento de terceros.
-- La versión de Google Play **no se conecta a Internet** (no tiene permiso de Internet).
+- El juego **no se conecta a Internet por su cuenta**: no tiene servidores ni envía nada. La única comunicación es la
+  de la librería de pagos de Google Play para la compra del juego completo (por eso la app declara el permiso de Internet).
 - No accede a tu ubicación, contactos, cámara, micrófono, fotos ni archivos.
 
 ## Qué se guarda en tu teléfono
@@ -69,7 +70,8 @@ Attackion en Google Play.
 Attackion is an Android game made by **Storment Games** (independent developer). In short: **no data ever leaves your phone**.
 
 - **No data is collected, sent or shared.** No account, no email, no ads, no analytics, no third-party trackers.
-- The Google Play version **does not connect to the Internet** (it has no Internet permission).
+- The game **does not connect to the Internet on its own**: no servers, nothing is sent. The only communication is
+  Google Play's billing library for the full-game purchase (which is why the app declares the Internet permission).
 - The game does not access your location, contacts, camera, microphone, photos or files.
 - Your progress, records, settings and a randomly generated player name (used only in the local ranking) are stored
   in the game's **private folder** on your device. They are never sent anywhere and are removed when you uninstall
