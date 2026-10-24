@@ -1,6 +1,6 @@
 # Política de privacidad de Attackion
 
-*Última actualización: 24 de octubre de 2026 (versión de pago)*
+*Última actualización: 24 de octubre de 2026 (gratis con desbloqueo del juego completo)*
 
 Attackion es un juego para Android creado por **Storment Games** (desarrollador independiente). Esta política explica
 qué datos trata el juego. En resumen: **ninguno sale de tu teléfono**.
@@ -30,13 +30,15 @@ Estos datos **no se envían a nadie**. Se borran al desinstalar el juego o al us
 
 - **Vibración**: para la vibración al recibir golpes. Puedes desactivarla en los ajustes del juego.
 
-## Compra del juego
+## Compra del juego completo
 
-Attackion se compra **una sola vez** en Google Play. El pago lo gestiona **Google Play** según sus propias
+Attackion se descarga **gratis** y se puede jugar el primer capítulo completo. El resto del juego se desbloquea con
+**una única compra** dentro de la app («Juego completo»). El pago lo gestiona **Google Play** según sus propias
 condiciones y su política de privacidad: el juego **no recibe, no ve y no guarda** ningún dato de pago
-(tarjeta, cuenta, dirección de facturación...).
+(tarjeta, cuenta, dirección de facturación...). El juego solo consulta a Google Play, dentro del teléfono, si tu
+cuenta ya tiene esa compra, para desbloquearlo también al reinstalar o en otro móvil.
 
-Dentro del juego **no hay compras** ni suscripciones. Las monedas rojas del gachapón **solo se ganan jugando**:
+No hay **ninguna otra compra** ni suscripciones. Las monedas rojas de la Extracción **solo se ganan jugando**:
 no se pueden comprar con dinero real.
 
 ## Menores
@@ -62,7 +64,7 @@ Attackion en Google Play.
 
 # Attackion Privacy Policy (English)
 
-*Last updated: October 24, 2026 (paid version)*
+*Last updated: October 24, 2026 (free with full-game unlock)*
 
 Attackion is an Android game made by **Storment Games** (independent developer). In short: **no data ever leaves your phone**.
 
@@ -73,9 +75,11 @@ Attackion is an Android game made by **Storment Games** (independent developer).
   in the game's **private folder** on your device. They are never sent anywhere and are removed when you uninstall
   the game or use "Delete progress" in the settings.
 - **Permissions:** vibration only (can be turned off in the game settings).
-- **Purchase:** Attackion is a one-time purchase on Google Play. Payment is handled entirely by Google Play under
-  its own terms and privacy policy; the game never receives, sees or stores any payment data.
-- **No in-app purchases or subscriptions.** Gacha red coins can only be earned by playing, never bought.
+- **Purchase:** Attackion is free to download and the first chapter is fully playable. The rest of the game is
+  unlocked with a single one-time in-app purchase ("Full game"). Payment is handled entirely by Google Play under
+  its own terms and privacy policy; the game never receives, sees or stores any payment data. It only asks Google
+  Play, on the device, whether your account owns that purchase, so it is restored when you reinstall.
+- **No other purchases or subscriptions.** Extraction red coins can only be earned by playing, never bought.
 - **Children:** the game collects no data from anyone, including children.
 - **Sharing results** only copies a text to your clipboard; the game never sends it anywhere.
 - If online features are ever added, this policy will be updated before they arrive.
