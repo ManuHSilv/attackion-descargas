@@ -1,19 +1,37 @@
 # Política de privacidad de Attackion
 
-*Última actualización: 24 de octubre de 2026 (gratis con desbloqueo del juego completo)*
+*Última actualización: 9 de noviembre de 2026 (rankings, amigos y logros con Google Play Juegos)*
 
 Attackion es un juego para Android creado por **Storment Games** (desarrollador independiente). Esta política explica
-qué datos trata el juego. En resumen: **ninguno sale de tu teléfono**.
+qué datos trata el juego. En resumen: el juego no tiene servidores propios; solo si usas **Google Play Juegos**
+(rankings, amigos y logros) se comparten con Google tus logros y puntuaciones.
 
 ## Qué datos recoge el juego
 
-**Ninguno.** Attackion no recoge, no envía y no comparte datos personales ni de uso:
+Attackion **no tiene servidores propios** y el desarrollador **no recibe** ningún dato tuyo:
 
 - No pide cuenta, correo ni ningún dato tuyo.
-- No tiene anuncios, ni analíticas, ni servicios de seguimiento de terceros.
-- El juego **no se conecta a Internet por su cuenta**: no tiene servidores ni envía nada. La única comunicación es la
-  de la librería de pagos de Google Play para la compra del juego completo (por eso la app declara el permiso de Internet).
+- No tiene anuncios, ni analíticas, ni servicios de seguimiento propios.
 - No accede a tu ubicación, contactos, cámara, micrófono, fotos ni archivos.
+- Se comunica solo con **Google Play**: la librería de pagos (compra del juego completo) y **Google Play Juegos**
+  (rankings, amigos y logros, ver abajo).
+
+## Google Play Juegos (rankings, amigos y logros)
+
+Desde la versión 0.96, el juego usa **Google Play Juegos** (servicio de Google) para los rankings mundiales y de amigos
+y los logros. Si inicias sesión en Google Play Juegos:
+
+- El juego envía a Google Play Juegos los **logros** que consigues y tus **puntuaciones** (ronda máxima y dificultad
+  máxima de cada héroe, Gloria total y el tiempo de cada desafío superado).
+- En los rankings se muestran tu **nombre de jugador de Google Play Juegos** (gamertag) y tu puntuación a otros jugadores.
+- La **lista de amigos** solo se lee si tú das permiso cuando Google te lo pregunta; el juego la usa solo para
+  mostrártela y para el ranking de amigos, y no la guarda ni la envía a ningún otro sitio.
+- Añadir o quitar amigos y cambiar tu nombre, tu imagen o quién ve tu actividad se hace en tu perfil de Google Play
+  Juegos. Desde ese perfil puedes también borrar los datos del juego.
+- Google trata estos datos según su propia política de privacidad (https://policies.google.com/privacy). El SDK de
+  Google Play Juegos recoge además datos de tu identidad de jugador y datos técnicos para su funcionamiento.
+
+Si no inicias sesión en Google Play Juegos, nada de esto se envía y el juego funciona igual (con el ranking local).
 
 ## Qué se guarda en tu teléfono
 
@@ -44,7 +62,8 @@ no se pueden comprar con dinero real.
 
 ## Menores
 
-El juego no recoge datos de nadie, tampoco de menores de edad.
+El juego no recoge datos de nadie, tampoco de menores de edad. Google Play Juegos aplica sus propias normas a las
+cuentas de menores.
 
 ## Compartir resultados
 
@@ -53,8 +72,8 @@ pegarlo; el juego no lo envía a ningún sitio.
 
 ## Cambios en esta política
 
-Si algún día el juego añade funciones en línea (por ejemplo, rankings mundiales), esta política se actualizará antes
-de que lleguen, explicando qué datos se usarían y para qué.
+Si el juego añade otras funciones en línea, esta política se actualizará antes de que lleguen, explicando qué datos
+se usarían y para qué.
 
 ## Contacto
 
@@ -65,13 +84,20 @@ Attackion en Google Play.
 
 # Attackion Privacy Policy (English)
 
-*Last updated: October 24, 2026 (free with full-game unlock)*
+*Last updated: November 9, 2026 (leaderboards, friends and achievements with Google Play Games)*
 
-Attackion is an Android game made by **Storment Games** (independent developer). In short: **no data ever leaves your phone**.
+Attackion is an Android game made by **Storment Games** (independent developer). In short: the game has no servers of
+its own; only if you use **Google Play Games** (leaderboards, friends and achievements) are your achievements and scores shared with Google.
 
-- **No data is collected, sent or shared.** No account, no email, no ads, no analytics, no third-party trackers.
-- The game **does not connect to the Internet on its own**: no servers, nothing is sent. The only communication is
-  Google Play's billing library for the full-game purchase (which is why the app declares the Internet permission).
+- **The developer receives no data.** No account, no email, no ads, no analytics, no trackers of its own.
+- The game only talks to **Google Play**: the billing library (full-game purchase) and **Google Play Games**.
+- **Google Play Games** (since version 0.96): if you sign in, the game sends your **achievements** and **scores**
+  (highest round and difficulty per hero, total Glory, time of each completed challenge) to Google Play Games, and
+  your **Play Games gamertag** and scores are shown to other players on the leaderboards. Your **friends list** is
+  only read if you allow it when Google asks, and is only used to show it to you and for the friends leaderboard.
+  Friends, profile and visibility are managed (and the game's data can be deleted) from your Play Games profile.
+  Google handles this data under its own privacy policy (https://policies.google.com/privacy). If you don't sign
+  in, nothing is sent and the game works the same with its local ranking.
 - The game does not access your location, contacts, camera, microphone, photos or files.
 - Your progress, records, settings and a randomly generated player name (used only in the local ranking) are stored
   in the game's **private folder** on your device. They are never sent anywhere and are removed when you uninstall
@@ -82,7 +108,7 @@ Attackion is an Android game made by **Storment Games** (independent developer).
   its own terms and privacy policy; the game never receives, sees or stores any payment data. It only asks Google
   Play, on the device, whether your account owns that purchase, so it is restored when you reinstall.
 - **No other purchases or subscriptions.** Extraction red coins can only be earned by playing, never bought.
-- **Children:** the game collects no data from anyone, including children.
+- **Children:** the game itself collects no data from anyone, including children.
 - **Sharing results** only copies a text to your clipboard; the game never sends it anywhere.
-- If online features are ever added, this policy will be updated before they arrive.
+- If other online features are added, this policy will be updated before they arrive.
 - **Contact:** use the developer contact email shown on Attackion's Google Play page.
