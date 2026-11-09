@@ -60,6 +60,22 @@ cuenta ya tiene esa compra, para desbloquearlo también al reinstalar o en otro 
 No hay **ninguna otra compra** ni suscripciones. Las monedas rojas de la Extracción **solo se ganan jugando**:
 no se pueden comprar con dinero real.
 
+## Eliminar tus datos
+
+Para pedir que se eliminen los datos de **Attackion** (desarrollador: **Storment Games**):
+
+1. **Datos de Google Play Juegos** (logros, puntuaciones en los rankings y tu actividad en el juego): abre la app
+   **Google Play Juegos** → tu perfil → **Ajustes** → **Eliminar cuenta de Play Juegos y datos** (o, para borrar solo
+   los de este juego, en tu perfil busca Attackion y elige **Eliminar datos del juego**). También desde
+   https://play.google.com/games/profile . Google los elimina según su política; el desarrollador no guarda copia.
+2. **Datos del teléfono** (progreso, partida, ajustes y ranking local): en el juego, **Ajustes → Datos → Borrar
+   progreso**, o desinstala el juego. Se eliminan al momento.
+3. Si prefieres que lo gestionemos nosotros, escribe al correo de contacto que aparece en la ficha de Attackion en
+   Google Play indicando tu nombre de jugador de Play Juegos: te diremos cómo hacerlo o lo tramitaremos con Google.
+
+El desarrollador **no conserva** ningún dato tuyo: no tiene servidores ni copias. Los datos de pago de la compra del
+juego completo los conserva Google Play según sus propias condiciones.
+
 ## Menores
 
 El juego no recoge datos de nadie, tampoco de menores de edad. Google Play Juegos aplica sus propias normas a las
@@ -108,6 +124,12 @@ its own; only if you use **Google Play Games** (leaderboards, friends and achiev
   its own terms and privacy policy; the game never receives, sees or stores any payment data. It only asks Google
   Play, on the device, whether your account owns that purchase, so it is restored when you reinstall.
 - **No other purchases or subscriptions.** Extraction red coins can only be earned by playing, never bought.
+- **Deleting your data** (Attackion, by Storment Games): Google Play Games data (achievements, leaderboard scores) is
+  deleted from the **Google Play Games** app → profile → Settings → *Delete Play Games account & data* (or delete just
+  this game's data from your profile), or at https://play.google.com/games/profile . Data on your phone is deleted
+  with *Settings → Data → Delete progress* in the game, or by uninstalling it. You can also email the developer
+  contact shown on the Play Store page. The developer keeps no copy of your data (no servers); purchase data is kept
+  by Google Play under its own terms.
 - **Children:** the game itself collects no data from anyone, including children.
 - **Sharing results** only copies a text to your clipboard; the game never sends it anywhere.
 - If other online features are added, this policy will be updated before they arrive.
