@@ -1,10 +1,10 @@
 # Política de privacidad de Attackion
 
-*Última actualización: 9 de noviembre de 2026 (rankings, amigos y logros con Google Play Juegos)*
+*Última actualización: 9 de noviembre de 2026 (modo Infinition y tarjeta de perfil en los rankings)*
 
 Attackion es un juego para Android creado por **Storment Games** (desarrollador independiente). Esta política explica
 qué datos trata el juego. En resumen: el juego no tiene servidores propios; solo si usas **Google Play Juegos**
-(rankings, amigos y logros) se comparten con Google tus logros y puntuaciones.
+(rankings, amigos y logros) se comparten con Google tus logros, tus puntuaciones y tu tarjeta de perfil del juego.
 
 ## Qué datos recoge el juego
 
@@ -21,8 +21,9 @@ Attackion **no tiene servidores propios** y el desarrollador **no recibe** ning�
 Desde la versión 0.96, el juego usa **Google Play Juegos** (servicio de Google) para los rankings mundiales y de amigos
 y los logros. Si inicias sesión en Google Play Juegos:
 
-- El juego envía a Google Play Juegos los **logros** que consigues y tus **puntuaciones** (ronda máxima y dificultad
-  máxima de cada héroe, Gloria total y el tiempo de cada desafío superado).
+- El juego envía a Google Play Juegos los **logros** que consigues y tus **puntuaciones** (la del modo Infinition, la
+  dificultad máxima y la Gloria total). Junto a cada puntuación va tu **tarjeta de perfil** del juego: el héroe y la skin
+  de esa partida y el título, el emblema y el color que hayas elegido (sin texto libre).
 - En los rankings se muestran tu **nombre de jugador de Google Play Juegos** (gamertag) y tu puntuación a otros jugadores.
 - La **lista de amigos** solo se lee si tú das permiso cuando Google te lo pregunta; el juego la usa solo para
   mostrártela y para el ranking de amigos, y no la guarda ni la envía a ningún otro sitio.
@@ -108,7 +109,8 @@ its own; only if you use **Google Play Games** (leaderboards, friends and achiev
 - **The developer receives no data.** No account, no email, no ads, no analytics, no trackers of its own.
 - The game only talks to **Google Play**: the billing library (full-game purchase) and **Google Play Games**.
 - **Google Play Games** (since version 0.96): if you sign in, the game sends your **achievements** and **scores**
-  (highest round and difficulty per hero, total Glory, time of each completed challenge) to Google Play Games, and
+  (Infinition mode, highest difficulty and total Glory, each with your in-game profile card: the hero and skin of that run
+  and the title, emblem and color you chose, no free text) to Google Play Games, and
   your **Play Games gamertag** and scores are shown to other players on the leaderboards. Your **friends list** is
   only read if you allow it when Google asks, and is only used to show it to you and for the friends leaderboard.
   Friends, profile and visibility are managed (and the game's data can be deleted) from your Play Games profile.
